@@ -31,6 +31,7 @@ We use yolo-format for our labels, as shown bellow:
 ## Data download
 BaiduYun:
 
-        https://pan.baidu.com/s/1ALH9lWP0XtGAA5rhdXoKtA 
+        https://pan.baidu.com/s/1rOp9W2S1dBzrlCxb695Y5A 
+
         Extraction Code: 
 
