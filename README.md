@@ -32,5 +32,5 @@ We use yolo-format for our labels, as shown bellow:
 BaiduYun:
 
         https://pan.baidu.com/s/1Qz3stcvoaGC2NoZ6Q1U0sA 
-        Extraction Code: ****
+        Extraction Code: 
 
