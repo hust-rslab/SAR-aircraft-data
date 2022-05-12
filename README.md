@@ -34,7 +34,7 @@ BaiduYun:
         https://pan.baidu.com/s/11SBfMkGszu3Lr_Pe1lIEkg
         Extraction Code: d2uw
 
-If you use this code for your research, please consider citing:
+If you use this data for your research, please consider citing:
 ```csv
 @ARTICLE{9761751,  
 author={Zhang, Peng and Xu, Hao and Tian, Tian and Gao, Peng and Li, Linfeng and Zhao, Tianming and Zhang, Nan and Tian, Jinwen},  
