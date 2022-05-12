@@ -36,7 +36,8 @@ BaiduYun:
 
 If you use this code for your research, please consider citing:
 ```csv
-@ARTICLE{9761751,  author={Zhang, Peng and Xu, Hao and Tian, Tian and Gao, Peng and Li, Linfeng and Zhao, Tianming and Zhang, Nan and Tian, Jinwen},  
+@ARTICLE{9761751,  
+author={Zhang, Peng and Xu, Hao and Tian, Tian and Gao, Peng and Li, Linfeng and Zhao, Tianming and Zhang, Nan and Tian, Jinwen},  
 journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
 title={SEFEPNet: Scale Expansion and Feature Enhancement Pyramid Network for SAR Aircraft Detection With Small Sample Dataset},   
 year={2022},  
