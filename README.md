@@ -32,5 +32,18 @@ We use yolo-format for our labels, as shown bellow:
 BaiduYun:
 
         https://pan.baidu.com/s/11SBfMkGszu3Lr_Pe1lIEkg
-        Extraction Code: 
+        Extraction Code: d2uw
+
+If you use this code for your research, please consider citing:
+```csv
+@ARTICLE{9761751,  author={Zhang, Peng and Xu, Hao and Tian, Tian and Gao, Peng and Li, Linfeng and Zhao, Tianming and Zhang, Nan and Tian, Jinwen},  
+journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},   
+title={SEFEPNet: Scale Expansion and Feature Enhancement Pyramid Network for SAR Aircraft Detection With Small Sample Dataset},   
+year={2022},  
+volume={15},  
+number={},  
+pages={3365-3375},  
+doi={10.1109/JSTARS.2022.3169339}}
+
+```
 
